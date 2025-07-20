@@ -1,0 +1,3 @@
+py3dbp
+numpy
+matplotlib
